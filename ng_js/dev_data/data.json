@@ -1,0 +1,756 @@
+{
+    "hits": [{
+        "created_at": "2020-03-12T22:43:35.000Z",
+        "title": null,
+        "url": null,
+        "author": "kazinator",
+        "points": null,
+        "story_text": null,
+        "comment_text": "\u0026gt; \u003ci\u003eso you can just write the thing rather than your name for it\u003c/i\u003e\u003cp\u003eI do not find this convincing. Names, especially good names, can convey additional meaning, which is helpful even if the names are longer than what they stand for in terms of raw character count.\u003cp\u003eOne obvious example is that I would often rather see a seven-letter manifest constant than the two-digit decimal literal it represents.\u003cp\u003eIn a similar vein, I would rather have a structure with named fields, than array indices or offsets. employee.department is objectively better than e[13]; a compiler can generate the equivalent of the latter from the former.\u003cp\u003eIn calculations that have many nodes in the syntax tree, it\u0026#x27;s helpful to break up the tree and give intermediate values names, which remains true even if the names are longer than the intermediate calculations.\u003cp\u003eA name may \u003ci\u003elonger\u003c/i\u003e than what it denotes in raw character count, but in spite of that it may less complex due to its flat structure which only indicates \u0026quot;same or not\u0026quot;. If a 13 character identifier stands for some 9 character syntax that denotes a tree with 7 nodes, the identifier is certainly simpler.\u003cp\u003eLastly, different expressions that occur in a program can sometimes be very similar to each other. If we do not use names, then these differences can be hard to find. It might seem that identifiers which are longer than what they denote make the problem worse, but that is not necessarily so. Identifiers which are clearly different from each other can be selected for denoting forms that are very similar to each other. If instead of ((\u0026lt;]):) and ((\u0026lt;[):) I write foolyfoo and barlybar, that will be less error prone.",
+        "num_comments": null,
+        "story_id": 22561121,
+        "story_title": "K Language (2011)",
+        "story_url": "http://www.math.bas.bg/bantchev/place/k.html",
+        "parent_id": 22562344,
+        "created_at_i": 1584053015,
+        "_tags": ["comment", "author_kazinator", "story_22561121"],
+        "objectID": "22562741",
+        "_highlightResult": {
+            "author": {
+                "value": "kazinator",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "\u0026gt; \u003ci\u003eso you can just write the thing rather than your name for it\u003c/i\u003e\u003cp\u003eI do not find this convincing. Names, especially good names, can convey additional meaning, which is helpful even if the names are longer than what they stand for in terms of raw character count.\u003cp\u003eOne obvious example is that I would often rather see a seven-letter manifest constant than the two-digit decimal literal it represents.\u003cp\u003eIn a similar vein, I would rather have a structure with named fields, than array indices or offsets. employee.department is objectively better than e[13]; a compiler can generate the equivalent of the latter from the former.\u003cp\u003eIn calculations that have many \u003cem\u003enodes\u003c/em\u003e in the syntax tree, it's helpful to break up the tree and give intermediate values names, which remains true even if the names are longer than the intermediate calculations.\u003cp\u003eA name may \u003ci\u003elonger\u003c/i\u003e than what it denotes in raw character count, but in spite of that it may less complex due to its flat structure which only indicates \u0026quot;same or not\u0026quot;. If a 13 character identifier stands for some 9 character syntax that denotes a tree with 7 \u003cem\u003enodes\u003c/em\u003e, the identifier is certainly simpler.\u003cp\u003eLastly, different expressions that occur in a program can sometimes be very similar to each other. If we do not use names, then these differences can be hard to find. It might seem that identifiers which are longer than what they denote make the problem worse, but that is not necessarily so. Identifiers which are clearly different from each other can be selected for denoting forms that are very similar to each other. If instead of ((\u0026lt;]):) and ((\u0026lt;[):) I write foolyfoo and barlybar, that will be less error prone.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "K Language (2011)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "http://www.math.bas.bg/bantchev/place/k.html",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T20:53:54.000Z",
+        "title": null,
+        "url": null,
+        "author": "sparkie",
+        "points": null,
+        "story_text": null,
+        "comment_text": "In Bitcoin, you trust only your own node. You don\u0026#x27;t place any trust in particular third-parties - you only accept communication from a large number of randomized nodes in hope that at least one of them is honest, which is sufficient to reveal the dishonesty of all others. (ie, you have not been \u003ci\u003eeclipse attacked\u003c/i\u003e).\u003cp\u003eYou then need to have confidence that humans will always act in their own self-interest, and that you are not important enough that a sufficiently large portion of participants would act against their own interest in attempt to try and scam you.\u003cp\u003eActing against your own interest means deliberately losing money by trying to coerce a large number of economic participants to act against their own self-interest in order to benefit you.",
+        "num_comments": null,
+        "story_id": 22558517,
+        "story_title": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+        "story_url": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+        "parent_id": 22560684,
+        "created_at_i": 1584046434,
+        "_tags": ["comment", "author_sparkie", "story_22558517"],
+        "objectID": "22561606",
+        "_highlightResult": {
+            "author": {
+                "value": "sparkie",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "In Bitcoin, you trust only your own node. You don't place any trust in particular third-parties - you only accept communication from a large number of randomized \u003cem\u003enodes\u003c/em\u003e in hope that at least one of them is honest, which is sufficient to reveal the dishonesty of all others. (ie, you have not been \u003ci\u003eeclipse attacked\u003c/i\u003e).\u003cp\u003eYou then need to have confidence that humans will always act in their own self-interest, and that you are not important enough that a sufficiently large portion of participants would act against their own interest in attempt to try and scam you.\u003cp\u003eActing against your own interest means deliberately losing money by trying to coerce a large number of economic participants to act against their own self-interest in order to benefit you.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T20:45:03.000Z",
+        "title": null,
+        "url": null,
+        "author": "duskwuff",
+        "points": null,
+        "story_text": null,
+        "comment_text": "\u0026gt; In a Bitcoin world, the main ledger would act as a final settlement layer\u003cp\u003eKeeping the \u0026quot;main ledger\u0026quot; functional \u003ci\u003erequires\u003c/i\u003e miners to have reliable communications with each other; I believe Lightning nodes need an up-to-date view of the ledger as well.\u003cp\u003e\u0026gt; All transactions would be batched and only get settled so often (once an hour, globally, for example).\u003cp\u003eThere is no mechanism in Bitcoin which would provide this functionality. It\u0026#x27;s not clear that it\u0026#x27;d even be possible without a major rework of the protocol.",
+        "num_comments": null,
+        "story_id": 22558517,
+        "story_title": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+        "story_url": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+        "parent_id": 22560643,
+        "created_at_i": 1584045903,
+        "_tags": ["comment", "author_duskwuff", "story_22558517"],
+        "objectID": "22561530",
+        "_highlightResult": {
+            "author": {
+                "value": "duskwuff",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "\u0026gt; In a Bitcoin world, the main ledger would act as a final settlement layer\u003cp\u003eKeeping the \u0026quot;main ledger\u0026quot; functional \u003ci\u003erequires\u003c/i\u003e miners to have reliable communications with each other; I believe Lightning \u003cem\u003enodes\u003c/em\u003e need an up-to-date view of the ledger as well.\u003cp\u003e\u0026gt; All transactions would be batched and only get settled so often (once an hour, globally, for example).\u003cp\u003eThere is no mechanism in Bitcoin which would provide this functionality. It's not clear that it'd even be possible without a major rework of the protocol.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T20:34:23.000Z",
+        "title": null,
+        "url": null,
+        "author": "Diederich",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Most everyone would be \u003ci\u003eamazed\u003c/i\u003e at much networked equipment is in a WalMart supercenter.  By the time I left, there were four routers, four big core switches, a couple dozen \u0026#x27;edge\u0026#x27; switches, and scores of access points.  And that\u0026#x27;s just the networking gear.  As of 2009, my team\u0026#x27;s network discovery system had identified tens of millions of separate IP addressable nodes on the global network.\u003cp\u003eAt that scale, everything had to be almost perfectly automated.\u003cp\u003eAnd, to be clear, this was not a static, boring network.  Stores, home offices, distribution centers, you name it, were being added, moved, expanded, deallocated 24 hours a day, all over the world.\u003cp\u003eAnd the device configs were \u003ci\u003efar\u003c/i\u003e from cookie cutter.  An eye-wateringly complex heuristic was required to dynamically create router, switch and access point config that would allow a given store to function.\u003cp\u003eAnd, one quarter in the early 2000s, we (Network Engineering) achieved six sigma (99.9999%) global uptime.\u003cp\u003eThings did start going downhill around 2004 or so, a few years after Kevin Turner became CIO.",
+        "num_comments": null,
+        "story_id": 22556156,
+        "story_title": "Ask HN: Was the Y2K Crisis Real?",
+        "story_url": null,
+        "parent_id": 22560893,
+        "created_at_i": 1584045263,
+        "_tags": ["comment", "author_Diederich", "story_22556156"],
+        "objectID": "22561427",
+        "_highlightResult": {
+            "author": {
+                "value": "Diederich",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Most everyone would be \u003ci\u003eamazed\u003c/i\u003e at much networked equipment is in a WalMart supercenter.  By the time I left, there were four routers, four big core switches, a couple dozen 'edge' switches, and scores of access points.  And that's just the networking gear.  As of 2009, my team's network discovery system had identified tens of millions of separate IP addressable \u003cem\u003enodes\u003c/em\u003e on the global network.\u003cp\u003eAt that scale, everything had to be almost perfectly automated.\u003cp\u003eAnd, to be clear, this was not a static, boring network.  Stores, home offices, distribution centers, you name it, were being added, moved, expanded, deallocated 24 hours a day, all over the world.\u003cp\u003eAnd the device configs were \u003ci\u003efar\u003c/i\u003e from cookie cutter.  An eye-wateringly complex heuristic was required to dynamically create router, switch and access point config that would allow a given store to function.\u003cp\u003eAnd, one quarter in the early 2000s, we (Network Engineering) achieved six sigma (99.9999%) global uptime.\u003cp\u003eThings did start going downhill around 2004 or so, a few years after Kevin Turner became CIO.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Ask HN: Was the Y2K Crisis Real?",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T18:34:22.000Z",
+        "title": null,
+        "url": null,
+        "author": "e_d_g_a_r",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Harmony will soon be the only proof of stake sharded blockchain in the whole industry (as far as I\u0026#x27;m aware) and I think more than just me would find that intellectually interesting considering, especially as ETH 2.0 has been building towards this for years and we are near to roll it out in production on mainnet.\u003cp\u003ePerhaps there are new accounts because many new people from Harmony community who are doing things like running validator nodes for the first time, or using the shell, linux or knowing about this site.\u003cp\u003eThis post definitely is about something technical, testing slashing for double signing in a sharded blockchain. That is something novel to industry.\u003cp\u003e(I am a protocol coder at harmony)",
+        "num_comments": null,
+        "story_id": 22554228,
+        "story_title": "Stake Heist on Pangaea: Break Our PoS Sharded Blockchain",
+        "story_url": "https://medium.com/harmony-one/coming-soon-on-pangaea-stake-heist-23bd201d08a7",
+        "parent_id": 22559989,
+        "created_at_i": 1584038062,
+        "_tags": ["comment", "author_e_d_g_a_r", "story_22554228"],
+        "objectID": "22560118",
+        "_highlightResult": {
+            "author": {
+                "value": "e_d_g_a_r",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Harmony will soon be the only proof of stake sharded blockchain in the whole industry (as far as I'm aware) and I think more than just me would find that intellectually interesting considering, especially as ETH 2.0 has been building towards this for years and we are near to roll it out in production on mainnet.\u003cp\u003ePerhaps there are new accounts because many new people from Harmony community who are doing things like running validator \u003cem\u003enodes\u003c/em\u003e for the first time, or using the shell, linux or knowing about this site.\u003cp\u003eThis post definitely is about something technical, testing slashing for double signing in a sharded blockchain. That is something novel to industry.\u003cp\u003e(I am a protocol coder at harmony)",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Stake Heist on Pangaea: Break Our PoS Sharded Blockchain",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://medium.com/harmony-one/coming-soon-on-pangaea-stake-heist-23bd201d08a7",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T18:24:02.000Z",
+        "title": "Node v13.11.0 (Current)",
+        "url": "https://nodejs.org/en/blog/release/v13.11.0",
+        "author": "feross",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1584037442,
+        "_tags": ["story", "author_feross", "story_22559976"],
+        "objectID": "22559976",
+        "_highlightResult": {
+            "title": {
+                "value": "Node v13.11.0 (Current)",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://\u003cem\u003enodejs\u003c/em\u003e.org/en/blog/release/v13.11.0",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "author": {
+                "value": "feross",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T17:53:41.000Z",
+        "title": null,
+        "url": null,
+        "author": "unhashable",
+        "points": null,
+        "story_text": null,
+        "comment_text": "To address your point more directly: many think that Bitcoin isn’t tangible because you have to trust that the network of full nodes are verifying transactions, and if they stop then Bitcoin ceases to exist.\u003cp\u003eFull nodes have financial incentives to run and they do so today at a scale that rivals the internet. It’s not a favor to Bitcoin, it’s a business. They would only stop if the financial incentive ceased to exist. I can’t think of a reason node operators would cease to care about their own financial well-being. That’s baked into our species.\u003cp\u003eNote that your reservations apply equally (and potentially more so) to fiat. USD is a virtual currency. Cash is on the way out. You will not be able to spend your USD offline. USD is based on a network of centralized banks. You cannot spend your fiat without a computer asking permission from these centralized systems.\u003cp\u003eThe world stops if the internet stops. That’s not a Bitcoin problem. Bitcoin actually improves on the state of things by replacing encumbant authorities and centralized computing systems with math and a decentralized network.\u003cp\u003eI’ll add this. It’s not the current state of the world, but there is a very real chance Bitcoin can be made available off-internet via a satellite network. This would prevent state-level censorship like what we see when authoritarian regimes cut the internet.\u003cp\u003e\u003ca href=\"https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Blockstream\u0026#x2F;satellite\u0026#x2F;blob\u0026#x2F;master\u0026#x2F;README.md\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;Blockstream\u0026#x2F;satellite\u0026#x2F;blob\u0026#x2F;master\u0026#x2F;README....\u003c/a\u003e",
+        "num_comments": null,
+        "story_id": 22558517,
+        "story_title": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+        "story_url": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+        "parent_id": 22559533,
+        "created_at_i": 1584035621,
+        "_tags": ["comment", "author_unhashable", "story_22558517"],
+        "objectID": "22559645",
+        "_highlightResult": {
+            "author": {
+                "value": "unhashable",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "To address your point more directly: many think that Bitcoin isn’t tangible because you have to trust that the network of full \u003cem\u003enodes\u003c/em\u003e are verifying transactions, and if they stop then Bitcoin ceases to exist.\u003cp\u003eFull \u003cem\u003enodes\u003c/em\u003e have financial incentives to run and they do so today at a scale that rivals the internet. It’s not a favor to Bitcoin, it’s a business. They would only stop if the financial incentive ceased to exist. I can’t think of a reason node operators would cease to care about their own financial well-being. That’s baked into our species.\u003cp\u003eNote that your reservations apply equally (and potentially more so) to fiat. USD is a virtual currency. Cash is on the way out. You will not be able to spend your USD offline. USD is based on a network of centralized banks. You cannot spend your fiat without a computer asking permission from these centralized systems.\u003cp\u003eThe world stops if the internet stops. That’s not a Bitcoin problem. Bitcoin actually improves on the state of things by replacing encumbant authorities and centralized computing systems with math and a decentralized network.\u003cp\u003eI’ll add this. It’s not the current state of the world, but there is a very real chance Bitcoin can be made available off-internet via a satellite network. This would prevent state-level censorship like what we see when authoritarian regimes cut the internet.\u003cp\u003e\u003ca href=\"https://github.com/Blockstream/satellite/blob/master/README.md\" rel=\"nofollow\"\u003ehttps://github.com/Blockstream/satellite/blob/master/README....\u003c/a\u003e",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T17:45:08.000Z",
+        "title": null,
+        "url": null,
+        "author": "rideontime",
+        "points": null,
+        "story_text": null,
+        "comment_text": "\u0026gt; You can\u0026#x27;t prove you have bitcoin if you don\u0026#x27;t have internet access for example. You can\u0026#x27;t have bitcoin if miners don\u0026#x27;t run their nodes.\u003cp\u003eNothing you said addressed this.",
+        "num_comments": null,
+        "story_id": 22558517,
+        "story_title": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+        "story_url": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+        "parent_id": 22559444,
+        "created_at_i": 1584035108,
+        "_tags": ["comment", "author_rideontime", "story_22558517"],
+        "objectID": "22559543",
+        "_highlightResult": {
+            "author": {
+                "value": "rideontime",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "\u0026gt; You can't prove you have bitcoin if you don't have internet access for example. You can't have bitcoin if miners don't run their \u003cem\u003enodes\u003c/em\u003e.\u003cp\u003eNothing you said addressed this.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Bitcoin and cryptocurrency prices have fallen sharply over the last few days",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T17:22:49.000Z",
+        "title": null,
+        "url": null,
+        "author": "glofish",
+        "points": null,
+        "story_text": null,
+        "comment_text": "bitcoin is not really \u0026quot;there\u0026quot; the same way as gold is.\u003cp\u003eThe whole point of gold is that it is a tangible asset. You can hold gold in your pocket or under your mattress and it costs nothing to store it. You can\u0026#x27;t prove you have bitcoin if you don\u0026#x27;t have internet access for example. You can\u0026#x27;t have bitcoin if miners don\u0026#x27;t run their nodes. Basically, you are depending on a resource in faraway lands to let you \u0026quot;own\u0026quot; what you have. What kind of asset is that?",
+        "num_comments": null,
+        "story_id": 22558517,
+        "story_title": "Crypto market crashes, sheds 50$+ billion in 24h",
+        "story_url": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+        "parent_id": 22559028,
+        "created_at_i": 1584033769,
+        "_tags": ["comment", "author_glofish", "story_22558517"],
+        "objectID": "22559254",
+        "_highlightResult": {
+            "author": {
+                "value": "glofish",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "bitcoin is not really \u0026quot;there\u0026quot; the same way as gold is.\u003cp\u003eThe whole point of gold is that it is a tangible asset. You can hold gold in your pocket or under your mattress and it costs nothing to store it. You can't prove you have bitcoin if you don't have internet access for example. You can't have bitcoin if miners don't run their \u003cem\u003enodes\u003c/em\u003e. Basically, you are depending on a resource in faraway lands to let you \u0026quot;own\u0026quot; what you have. What kind of asset is that?",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Crypto market crashes, sheds 50$+ billion in 24h",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.forbes.com/sites/billybambrough/2020/03/12/the-real-reason-behind-bitcoin-ethereum-ripples-xrp-and-litecoins-50-billion-crash/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T16:32:17.000Z",
+        "title": null,
+        "url": null,
+        "author": "decentralised",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Since I recently developed an infatuation with nodejs (after 20 years of hating on js), would you mind sharing the \u0026quot;date as text\u0026quot; requirement? It should be trivial to compose with a string literal if the builtin toLocaleDateString() doesn\u0026#x27;t cut it.",
+        "num_comments": null,
+        "story_id": 22548910,
+        "story_title": "Using WASM with Rust",
+        "story_url": "https://wiki.alopex.li/ActuallyUsingWasm",
+        "parent_id": 22554335,
+        "created_at_i": 1584030737,
+        "_tags": ["comment", "author_decentralised", "story_22548910"],
+        "objectID": "22558575",
+        "_highlightResult": {
+            "author": {
+                "value": "decentralised",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Since I recently developed an infatuation with \u003cem\u003enodejs\u003c/em\u003e (after 20 years of hating on js), would you mind sharing the \u0026quot;date as text\u0026quot; requirement? It should be trivial to compose with a string literal if the builtin toLocaleDateString() doesn't cut it.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Using WASM with Rust",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://wiki.alopex.li/ActuallyUsingWasm",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T15:24:45.000Z",
+        "title": null,
+        "url": null,
+        "author": "kalimoxto",
+        "points": null,
+        "story_text": null,
+        "comment_text": "(Apologies to the Flaming Lips, and I think the pronunciation shift you have to do at the end makes it funnier)\u003cp\u003eI know a girl who\u003cp\u003ewrote some code\u003cp\u003eshe\u0026#x27;ll make a linked list\u003cp\u003eshe\u0026#x27;ll add some nodes\u003cp\u003eBut she don\u0026#x27;t use classes\u003cp\u003eand she don\u0026#x27;t use C\u003cp\u003eshe don\u0026#x27;t use Haskell\u003cp\u003eor any of these\u003cp\u003eshe uses assembly\u003cp\u003eassembly\u003cp\u003eassembly",
+        "num_comments": null,
+        "story_id": 22555938,
+        "story_title": "I Don't Use Classes",
+        "story_url": "https://spin.atomicobject.com/2020/03/12/why-i-dont-use-classes/#.Xmom-cfXe3U.hackernews",
+        "parent_id": 22555938,
+        "created_at_i": 1584026685,
+        "_tags": ["comment", "author_kalimoxto", "story_22555938"],
+        "objectID": "22557796",
+        "_highlightResult": {
+            "author": {
+                "value": "kalimoxto",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "(Apologies to the Flaming Lips, and I think the pronunciation shift you have to do at the end makes it funnier)\u003cp\u003eI know a girl who\u003cp\u003ewrote some code\u003cp\u003eshe'll make a linked list\u003cp\u003eshe'll add some \u003cem\u003enodes\u003c/em\u003e\u003cp\u003eBut she don't use classes\u003cp\u003eand she don't use C\u003cp\u003eshe don't use Haskell\u003cp\u003eor any of these\u003cp\u003eshe uses assembly\u003cp\u003eassembly\u003cp\u003eassembly",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "I Don't Use Classes",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://spin.atomicobject.com/2020/03/12/why-i-dont-use-classes/#.Xmom-cfXe3U.hackernews",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T04:50:07.000Z",
+        "title": null,
+        "url": null,
+        "author": "asdfasgasdgasdg",
+        "points": null,
+        "story_text": null,
+        "comment_text": "What needs to happen is to reduce the connectedness of the human social graph. The elderly don\u0026#x27;t need to be totally isolated. They can be seen by family, friends, but we need to limit the number of people that each older person can see, and the number of people that are seen by each younger person. That\u0026#x27;s what this social distancing is about. The virus travels along nodes where our paths through spacetime intersect or come close, and that is in many cases closely modeled by the human social graph. If you reduce the connectedness of the graph, you reduce the number of potential intersections each carrier has with uninfected people. You do that enough, and you can get the reproduction rate below 1. You do that enough and we can catch up to the infection front and seal it off.\u003cp\u003eAt least, that\u0026#x27;s the hope as I understand it. That\u0026#x27;s what I\u0026#x27;m trying to help do by staying home and seeing only close friends and only in 1:1 settings.",
+        "num_comments": null,
+        "story_id": 22547283,
+        "story_title": "Covid-19 is now officially a pandemic, WHO says",
+        "story_url": "https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says",
+        "parent_id": 22553114,
+        "created_at_i": 1583988607,
+        "_tags": ["comment", "author_asdfasgasdgasdg", "story_22547283"],
+        "objectID": "22553894",
+        "_highlightResult": {
+            "author": {
+                "value": "asdfasgasdgasdg",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "What needs to happen is to reduce the connectedness of the human social graph. The elderly don't need to be totally isolated. They can be seen by family, friends, but we need to limit the number of people that each older person can see, and the number of people that are seen by each younger person. That's what this social distancing is about. The virus travels along \u003cem\u003enodes\u003c/em\u003e where our paths through spacetime intersect or come close, and that is in many cases closely modeled by the human social graph. If you reduce the connectedness of the graph, you reduce the number of potential intersections each carrier has with uninfected people. You do that enough, and you can get the reproduction rate below 1. You do that enough and we can catch up to the infection front and seal it off.\u003cp\u003eAt least, that's the hope as I understand it. That's what I'm trying to help do by staying home and seeing only close friends and only in 1:1 settings.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Covid-19 is now officially a pandemic, WHO says",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://www.npr.org/sections/goatsandsoda/2020/03/11/814474930/coronavirus-covid-19-is-now-officially-a-pandemic-who-says",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-12T03:38:21.000Z",
+        "title": null,
+        "url": null,
+        "author": "Pacofication",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Location: Montreal, QC, Canada\u003cp\u003eRemote: Yes\u003cp\u003eWilling to relocate: No\u003cp\u003eTechnologies: C#, Net Core, Unity, Unreal Engine, C++, NodeJS, RabbitMQ, SQL Server, Redis\u003cp\u003eRésumé\u0026#x2F;CV: Please email me to pdelisio{at}gmail{dot}com\u003cp\u003eEmail: pdelisio{at}gmail{dot}com",
+        "num_comments": null,
+        "story_id": 22465474,
+        "story_title": "Ask HN: Who wants to be hired? (March 2020)",
+        "story_url": null,
+        "parent_id": 22465474,
+        "created_at_i": 1583984301,
+        "_tags": ["comment", "author_Pacofication", "story_22465474"],
+        "objectID": "22553481",
+        "_highlightResult": {
+            "author": {
+                "value": "Pacofication",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Location: Montreal, QC, Canada\u003cp\u003eRemote: Yes\u003cp\u003eWilling to relocate: No\u003cp\u003eTechnologies: C#, Net Core, Unity, Unreal Engine, C++, \u003cem\u003eNodeJS\u003c/em\u003e, RabbitMQ, SQL Server, Redis\u003cp\u003eRésumé/CV: Please email me to pdelisio{at}gmail{dot}com\u003cp\u003eEmail: pdelisio{at}gmail{dot}com",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Ask HN: Who wants to be hired? (March 2020)",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T23:38:35.000Z",
+        "title": null,
+        "url": null,
+        "author": "mulmen",
+        "points": null,
+        "story_text": null,
+        "comment_text": "I\u0026#x27;d love to see the data \u003ci\u003emodeling\u003c/i\u003e book.  I spend a lot of energy shouting the virtues of The Data Warehouse Toolkit into the void.  You are right it is outdated but it isn\u0026#x27;t entirely (or even mostly) wrong.\u003cp\u003eMy coworkers seem much more interested in making a bigger EMR or adding nodes to Redshift than designing a reasonable data mart because \u0026quot;star schemas don\u0026#x27;t scale\u0026quot;.  I\u0026#x27;m interested to see what you come up with, it is a huge gap in the current literature.",
+        "num_comments": null,
+        "story_id": 22548217,
+        "story_title": "Show HN: Visual SQL",
+        "story_url": "https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/",
+        "parent_id": 22550699,
+        "created_at_i": 1583969915,
+        "_tags": ["comment", "author_mulmen", "story_22548217"],
+        "objectID": "22551982",
+        "_highlightResult": {
+            "author": {
+                "value": "mulmen",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "I'd love to see the data \u003ci\u003emodeling\u003c/i\u003e book.  I spend a lot of energy shouting the virtues of The Data Warehouse Toolkit into the void.  You are right it is outdated but it isn't entirely (or even mostly) wrong.\u003cp\u003eMy coworkers seem much more interested in making a bigger EMR or adding \u003cem\u003enodes\u003c/em\u003e to Redshift than designing a reasonable data mart because \u0026quot;star schemas don't scale\u0026quot;.  I'm interested to see what you come up with, it is a huge gap in the current literature.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Show HN: Visual SQL",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T22:04:35.000Z",
+        "title": null,
+        "url": null,
+        "author": "hardillb",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Location: UK (Bristol)\u003cp\u003eRemote: No\u003cp\u003eWilling to relocate: Would like to move back up to the North of England\u003cp\u003eTechnologies: IoT, Connectivity, Linux, Docker, MQTT, Alexa\u0026#x2F;Google Assistant Smart Home Skills, NodeJS, Java, Crank Storyboard\u003cp\u003eRésumé\u0026#x2F;CV: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;www.hardill.me.uk\u0026#x2F;wordpress\u0026#x2F;about\u0026#x2F;curriculum-vitae\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;www.hardill.me.uk\u0026#x2F;wordpress\u0026#x2F;about\u0026#x2F;curriculum-vitae\u0026#x2F;\u003c/a\u003e\u003cp\u003eEmail: hardillb@gmail.com\u003cp\u003eLooking for Lead Dev\u0026#x2F;Architect for IoT\u0026#x2F;Connectivity project.",
+        "num_comments": null,
+        "story_id": 22465474,
+        "story_title": "Ask HN: Who wants to be hired? (March 2020)",
+        "story_url": null,
+        "parent_id": 22465474,
+        "created_at_i": 1583964275,
+        "_tags": ["comment", "author_hardillb", "story_22465474"],
+        "objectID": "22551302",
+        "_highlightResult": {
+            "author": {
+                "value": "hardillb",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Location: UK (Bristol)\u003cp\u003eRemote: No\u003cp\u003eWilling to relocate: Would like to move back up to the North of England\u003cp\u003eTechnologies: IoT, Connectivity, Linux, Docker, MQTT, Alexa/Google Assistant Smart Home Skills, \u003cem\u003eNodeJS\u003c/em\u003e, Java, Crank Storyboard\u003cp\u003eRésumé/CV: \u003ca href=\"https://www.hardill.me.uk/wordpress/about/curriculum-vitae/\" rel=\"nofollow\"\u003ehttps://www.hardill.me.uk/wordpress/about/curriculum-vitae/\u003c/a\u003e\u003cp\u003eEmail: hardillb@gmail.com\u003cp\u003eLooking for Lead Dev/Architect for IoT/Connectivity project.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Ask HN: Who wants to be hired? (March 2020)",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T19:33:03.000Z",
+        "title": null,
+        "url": null,
+        "author": "dgb23",
+        "points": null,
+        "story_text": null,
+        "comment_text": "I really hope your (or a similar) project takes off.\u003cp\u003eModern web development desperately needs a framework that integrates well with technologies like SSG, Graphql and Nodejs in general, that ships with sane configuration defaults for all the involved layers.\u003cp\u003eThis is important, since SSG\u0026#x2F;SPA hybrids solve a lot of frontend issues by default and Graphql is a very expressive protocol which helps to avoid tightly coupled data transformation logic on the frontend.\u003cp\u003eI\u0026#x27;m currently very interested in Nodejs specifically since JS is a transpilation target for a lot of languages and WASM.\u003cp\u003eI\u0026#x27;ll keep my fingers crossed, that you find a solution for integrating the persistence layer nicely as well. A simple and reliable DB like SQLite could be a very good default, since now you are essentially just dealing with files.\u003cp\u003eI think database and ORM integration in a framework like yours is very tricky in general. It has to be flexible enough to serve different needs but also well integrated and easily deployable. Good luck with that!\u003cp\u003eLooking forward to try this stuff out and possibly provide further feedback.",
+        "num_comments": null,
+        "story_id": 22537944,
+        "story_title": "Redwood: An integrated, full-stack, JavaScript web framework for the JAMstack",
+        "story_url": "https://redwoodjs.com/",
+        "parent_id": 22538031,
+        "created_at_i": 1583955183,
+        "_tags": ["comment", "author_dgb23", "story_22537944"],
+        "objectID": "22549573",
+        "_highlightResult": {
+            "author": {
+                "value": "dgb23",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "I really hope your (or a similar) project takes off.\u003cp\u003eModern web development desperately needs a framework that integrates well with technologies like SSG, Graphql and \u003cem\u003eNodejs\u003c/em\u003e in general, that ships with sane configuration defaults for all the involved layers.\u003cp\u003eThis is important, since SSG/SPA hybrids solve a lot of frontend issues by default and Graphql is a very expressive protocol which helps to avoid tightly coupled data transformation logic on the frontend.\u003cp\u003eI'm currently very interested in \u003cem\u003eNodejs\u003c/em\u003e specifically since JS is a transpilation target for a lot of languages and WASM.\u003cp\u003eI'll keep my fingers crossed, that you find a solution for integrating the persistence layer nicely as well. A simple and reliable DB like SQLite could be a very good default, since now you are essentially just dealing with files.\u003cp\u003eI think database and ORM integration in a framework like yours is very tricky in general. It has to be flexible enough to serve different needs but also well integrated and easily deployable. Good luck with that!\u003cp\u003eLooking forward to try this stuff out and possibly provide further feedback.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Redwood: An integrated, full-stack, JavaScript web framework for the JAMstack",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://redwoodjs.com/",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T17:39:21.000Z",
+        "title": null,
+        "url": null,
+        "author": "brundolf",
+        "points": null,
+        "story_text": null,
+        "comment_text": "\u0026gt; Popular JS VMs...are often not maintained\u003cp\u003eThe V8 engine, in 2020, is one of the most actively-maintained software projects \u003ci\u003eof any kind\u003c/i\u003e. And (for better or worse) nearly everyone who needs a JS engine uses that one. This includes - among others - Chrome, NodeJS (which means Electron too), and now Edge. The only major outliers I can think of are JavaScriptCore (iOS\u0026#x2F;Safari) and SpiderMonkey (Firefox).\u003cp\u003eThe sin committed by Avast was rolling their \u003ci\u003eown\u003c/i\u003e version of something, as a less-than-massive-company, when the state-of-the-art implementation is OSS. That has nothing to do with JavaScript the language. You\u0026#x27;re commenting on things you clearly know nothing about.",
+        "num_comments": null,
+        "story_id": 22544554,
+        "story_title": "AvastSvc.exe contains a full, unsandboxed JavaScript/DOM implementation",
+        "story_url": "https://github.com/taviso/avscript",
+        "parent_id": 22545385,
+        "created_at_i": 1583948361,
+        "_tags": ["comment", "author_brundolf", "story_22544554"],
+        "objectID": "22548017",
+        "_highlightResult": {
+            "author": {
+                "value": "brundolf",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "\u0026gt; Popular JS VMs...are often not maintained\u003cp\u003eThe V8 engine, in 2020, is one of the most actively-maintained software projects \u003ci\u003eof any kind\u003c/i\u003e. And (for better or worse) nearly everyone who needs a JS engine uses that one. This includes - among others - Chrome, \u003cem\u003eNodeJS\u003c/em\u003e (which means Electron too), and now Edge. The only major outliers I can think of are JavaScriptCore (iOS/Safari) and SpiderMonkey (Firefox).\u003cp\u003eThe sin committed by Avast was rolling their \u003ci\u003eown\u003c/i\u003e version of something, as a less-than-massive-company, when the state-of-the-art implementation is OSS. That has nothing to do with JavaScript the language. You're commenting on things you clearly know nothing about.",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "AvastSvc.exe contains a full, unsandboxed JavaScript/DOM implementation",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "story_url": {
+                "value": "https://github.com/taviso/avscript",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T17:24:50.000Z",
+        "title": null,
+        "url": null,
+        "author": "eyarz",
+        "points": null,
+        "story_text": null,
+        "comment_text": "Micro-services on serverless architecture with NodeJS, GoLang, React and a little bit Python",
+        "num_comments": null,
+        "story_id": 22536228,
+        "story_title": "Launch HN: Datree (YC W20) – Best practices and security policies on each commit",
+        "story_url": null,
+        "parent_id": 22542309,
+        "created_at_i": 1583947490,
+        "_tags": ["comment", "author_eyarz", "story_22536228"],
+        "objectID": "22547749",
+        "_highlightResult": {
+            "author": {
+                "value": "eyarz",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "comment_text": {
+                "value": "Micro-services on serverless architecture with \u003cem\u003eNodeJS\u003c/em\u003e, GoLang, React and a little bit Python",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "story_title": {
+                "value": "Launch HN: Datree (YC W20) – Best practices and security policies on each commit",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T15:54:29.000Z",
+        "title": "A comprehensive guide on creating Stripe subscriptions in Node with built-in SCA",
+        "url": "https://codenebula.io/node.js/stripe/sca/2020/03/03/how-to-use-stripes-new-payment-intents-api-with-node-js-to-create-subscriptions-with-built-in-sca/",
+        "author": "armyof0010",
+        "points": 4,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1583942069,
+        "_tags": ["story", "author_armyof0010", "story_22546812"],
+        "objectID": "22546812",
+        "_highlightResult": {
+            "title": {
+                "value": "A comprehensive guide on creating Stripe subscriptions in Node with built-in SCA",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://codenebula.io/node.js/stripe/sca/2020/03/03/how-to-use-stripes-new-payment-intents-api-with-\u003cem\u003enode-js\u003c/em\u003e-to-create-subscriptions-with-built-in-sca/",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "author": {
+                "value": "armyof0010",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }, {
+        "created_at": "2020-03-11T13:53:15.000Z",
+        "title": "Live-debugging Node.js apps at the command line",
+        "url": "https://medium.com/@apostrophecms/live-debugging-node-js-apps-at-the-command-line-cd5b58f883e1",
+        "author": "boutell",
+        "points": 2,
+        "story_text": null,
+        "comment_text": null,
+        "num_comments": 0,
+        "story_id": null,
+        "story_title": null,
+        "story_url": null,
+        "parent_id": null,
+        "created_at_i": 1583934795,
+        "_tags": ["story", "author_boutell", "story_22545823"],
+        "objectID": "22545823",
+        "_highlightResult": {
+            "title": {
+                "value": "Live-debugging Node.js apps at the command line",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "url": {
+                "value": "https://medium.com/@apostrophecms/live-debugging-\u003cem\u003enode-js\u003c/em\u003e-apps-at-the-command-line-cd5b58f883e1",
+                "matchLevel": "full",
+                "fullyHighlighted": false,
+                "matchedWords": ["nodejs"]
+            },
+            "author": {
+                "value": "boutell",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }],
+    "nbHits": 14059,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "query": "nodejs",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=nodejs",
+    "processingTimeMS": 6
+}
